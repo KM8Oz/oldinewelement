@@ -1,2 +1,2 @@
-# Getting Started with Create React App
+# small reactjs page.
 > bitrix product template
