@@ -1,0 +1,833 @@
+{
+    "data": "Компьютерный конфигуратор Соберите Ваш будущий компьютер прямо",
+    "configurations": {
+        "cpu": [
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/99/188910/188910_1.jpg",
+                "ID": "188910",
+                "label": "Процессор Intel Xeon E5-2660 OEM 220GHz 8GTs 20Mb Cache Socket2011",
+                "value": "Процессор Intel Xeon E5-2660 OEM 220GHz 8GTs 20Mb Cache Socket2011",
+                "ACTIVE": "Y",
+                "CODE": "0202876",
+                "DATE_ACTIVE_FROM": "09.11.2012"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/99/189928/189928_1.jpg",
+                "ID": "189928",
+                "label": "Процессор AMD FX-6300 OEM <95W 6core 4.1Gh(Max) 14MB(L2-6MBL3-8MB) Vishera AM3 (FD6300WMW6KHK)",
+                "value": "Процессор AMD FX-6300 OEM <95W 6core 4.1Gh(Max) 14MB(L2-6MBL3-8MB) Vishera AM3 (FD6300WMW6KHK)",
+                "ACTIVE": "Y",
+                "CODE": "0200686",
+                "DATE_ACTIVE_FROM": "11.09.2013"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/99/269690/269690_1.jpg",
+                "ID": "269690",
+                "label": "Процессор Intel® Core™ i7-4790 OEM <vPro TPD 84W 48 Base 3.60GHz - Turbo 4.00 GHz 8Mb LGA1150 (Haswell)",
+                "value": "Процессор Intel® Core™ i7-4790 OEM <vPro TPD 84W 48 Base 3.60GHz - Turbo 4.00 GHz 8Mb LGA1150 (Haswell)",
+                "ACTIVE": "Y",
+                "CODE": "0257140",
+                "DATE_ACTIVE_FROM": "05.05.2014"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/99/367021/367021_1.jpg",
+                "ID": "367021",
+                "label": "Процессор AMD Athlon X4 840 OEM <65W 4core 3.8Gh(Max) 4MB(L2-4MB) Kaveri FM2 (AD840XYBI44JA)",
+                "value": "Процессор AMD Athlon X4 840 OEM <65W 4core 3.8Gh(Max) 4MB(L2-4MB) Kaveri FM2 (AD840XYBI44JA)",
+                "ACTIVE": "Y",
+                "CODE": "0274964",
+                "DATE_ACTIVE_FROM": "24.11.2014"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/99/609802/609802_1.jpg",
+                "ID": "609802",
+                "label": "Процессор Intel® Core™ i5-6500 OEM <vPro TPD 65W 44 Base 3.2GHz - Turbo 3.6GHz 6Mb LGA1151 (Skylake)",
+                "value": "Процессор Intel® Core™ i5-6500 OEM <vPro TPD 65W 44 Base 3.2GHz - Turbo 3.6GHz 6Mb LGA1151 (Skylake)",
+                "ACTIVE": "Y",
+                "CODE": "0303912",
+                "DATE_ACTIVE_FROM": "15.09.2015"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/99/627971/627971_1.jpg",
+                "ID": "627971",
+                "label": "Процессор Intel® Pentium® G4500 OEM <TPD 51W 22 Base 3.5GHz 3Mb LGA1151 (Skylake)",
+                "value": "Процессор Intel® Pentium® G4500 OEM <TPD 51W 22 Base 3.5GHz 3Mb LGA1151 (Skylake)",
+                "ACTIVE": "Y",
+                "CODE": "0313778",
+                "DATE_ACTIVE_FROM": "15.10.2015"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/99/627973/627973_1.jpg",
+                "ID": "627973",
+                "label": "Процессор Intel® Core™ i5-6500 BOX <TPD 65W 44 Base 3.2GHz - Turbo 3.6GHz 6Mb LGA1151 (Skylake)",
+                "value": "Процессор Intel® Core™ i5-6500 BOX <TPD 65W 44 Base 3.2GHz - Turbo 3.6GHz 6Mb LGA1151 (Skylake)",
+                "ACTIVE": "Y",
+                "CODE": "0313773",
+                "DATE_ACTIVE_FROM": "14.10.2015"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/99/627977/627977_1.jpg",
+                "ID": "627977",
+                "label": "Процессор Intel® Core™ i3-6100 OEM <TPD 51W 24 Base 3.7GHz 3Mb LGA1151 (Skylake)",
+                "value": "Процессор Intel® Core™ i3-6100 OEM <TPD 51W 24 Base 3.7GHz 3Mb LGA1151 (Skylake)",
+                "ACTIVE": "Y",
+                "CODE": "0303920",
+                "DATE_ACTIVE_FROM": "15.10.2015"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/99/700011/700011_1.jpg",
+                "ID": "700011",
+                "label": "Процессор Intel® Core™ i7-6700 OEM <TPD 65W 48 Base 3.4GHz - Turbo 4.0GHz 8Mb LGA1151(Skylake)",
+                "value": "Процессор Intel® Core™ i7-6700 OEM <TPD 65W 48 Base 3.4GHz - Turbo 4.0GHz 8Mb LGA1151(Skylake)",
+                "ACTIVE": "Y",
+                "CODE": "0303908",
+                "DATE_ACTIVE_FROM": "15.09.2015"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/99/901768/901768_1.jpg",
+                "ID": "901768",
+                "label": "Процессор Intel® Core™ i5-4690K BOX TPD 88W 44 Base 3.50GHz - Turbo 3.9 GHz 6Mb LGA1150 (Haswell)",
+                "value": "Процессор Intel® Core™ i5-4690K BOX TPD 88W 44 Base 3.50GHz - Turbo 3.9 GHz 6Mb LGA1150 (Haswell)",
+                "ACTIVE": "Y",
+                "CODE": "0286258",
+                "DATE_ACTIVE_FROM": "24.07.2014"
+            }
+        ],
+        "gpu": [
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/98/583146/583146_1.jpg",
+                "ID": "583146",
+                "label": "Проф видеокарта 16Gb PCI-E Sapphire FirePro S9150 GDDR5 512 bit Retail",
+                "value": "Проф видеокарта 16Gb PCI-E Sapphire FirePro S9150 GDDR5 512 bit Retail",
+                "ACTIVE": "Y",
+                "CODE": "0271631",
+                "DATE_ACTIVE_FROM": "25.09.2014"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/98/785621/785621_1.jpg",
+                "ID": "785621",
+                "label": "Видеокарта 1Gb <PCI-E MSI GT 710 1GD3H LP <GFGT710 GDDR3 64bit HDCP VGA DVI HDMI Retail",
+                "value": "Видеокарта 1Gb <PCI-E MSI GT 710 1GD3H LP <GFGT710 GDDR3 64bit HDCP VGA DVI HDMI Retail",
+                "ACTIVE": "Y",
+                "CODE": "0345054",
+                "DATE_ACTIVE_FROM": "15.02.2016"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/98/986363/986363_1.jpg",
+                "ID": "986363",
+                "label": "Видеокарта 4Gb <PCI-E GIGABYTE GeForce GTX 1050 Ti D5 4G GV-N105TD5-4GD <GTX1050Ti GDDR5 128bit HDCP DVI HDMI DP Retail",
+                "value": "Видеокарта 4Gb <PCI-E GIGABYTE GeForce GTX 1050 Ti D5 4G GV-N105TD5-4GD <GTX1050Ti GDDR5 128bit HDCP DVI HDMI DP Retail",
+                "ACTIVE": "Y",
+                "CODE": "0432441",
+                "DATE_ACTIVE_FROM": "23.11.2016"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/98/1014739/1014739_1.jpg",
+                "ID": "1014739",
+                "label": "Видеокарта 4Gb <PCI-E MSI GeForce GTX 1050 Ti 4GT OC <GTX1050Ti GDDR5 128bit HDCP DVI HDMI DP Retail",
+                "value": "Видеокарта 4Gb <PCI-E MSI GeForce GTX 1050 Ti 4GT OC <GTX1050Ti GDDR5 128bit HDCP DVI HDMI DP Retail",
+                "ACTIVE": "Y",
+                "CODE": "0449735",
+                "DATE_ACTIVE_FROM": "28.11.2016"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/98/1225039/1225039_1.jpg",
+                "ID": "1225039",
+                "label": "Видеокарта 2Gb PCI-E ASUS GT1030-SL-2G-BRK GT1030 GDDR5 64 bit DVI HDMI Retail",
+                "value": "Видеокарта 2Gb PCI-E ASUS GT1030-SL-2G-BRK GT1030 GDDR5 64 bit DVI HDMI Retail",
+                "ACTIVE": "Y",
+                "CODE": "0501415",
+                "DATE_ACTIVE_FROM": "14.06.2017"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/98/1263485/1263485_1.jpg",
+                "ID": "1263485",
+                "label": "Видеокарта 1Gb <PCI-E ASUS GT710-SL-1GD5 <GFGT710 GDDR5 32 bit VGA DVI HDMI Retail",
+                "value": "Видеокарта 1Gb <PCI-E ASUS GT710-SL-1GD5 <GFGT710 GDDR5 32 bit VGA DVI HDMI Retail",
+                "ACTIVE": "Y",
+                "CODE": "0511195",
+                "DATE_ACTIVE_FROM": "25.08.2017"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/98/1263486/1263486_1.jpg",
+                "ID": "1263486",
+                "label": "Видеокарта ASUS GeForce GT 710 GT710-SL-2GD5 2048Mb 954 MHz",
+                "value": "Видеокарта ASUS GeForce GT 710 GT710-SL-2GD5 2048Mb 954 MHz",
+                "ACTIVE": "Y",
+                "CODE": "0511193",
+                "DATE_ACTIVE_FROM": "25.08.2017"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/98/1333722/1333722_1.jpg",
+                "ID": "1333722",
+                "label": "Видеокарта ASUS GeForce GT 1030 GT1030-2G-BRK 2048Mb 1506 MHz",
+                "value": "Видеокарта ASUS GeForce GT 1030 GT1030-2G-BRK 2048Mb 1506 MHz",
+                "ACTIVE": "Y",
+                "CODE": "0538060",
+                "DATE_ACTIVE_FROM": "19.02.2018"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/98/1388906/1388906_1.jpg",
+                "ID": "1388906",
+                "label": "Видеокарта 2Gb <PCI-E MSI GT 1030 AERO ITX 2GD4 OC <GT1030 GDDR 64bit HDCP DVI HDMI Retail",
+                "value": "Видеокарта 2Gb <PCI-E MSI GT 1030 AERO ITX 2GD4 OC <GT1030 GDDR 64bit HDCP DVI HDMI Retail",
+                "ACTIVE": "Y",
+                "CODE": "0557204",
+                "DATE_ACTIVE_FROM": "06.07.2018"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/98/1388907/1388907_1.jpg",
+                "ID": "1388907",
+                "label": "Видеокарта 2Gb <PCI-E MSI GT 1030 2GHD4 LP OC <GT1030 GDDR5 64bit HDCP DP HDMI LP Retail",
+                "value": "Видеокарта 2Gb <PCI-E MSI GT 1030 2GHD4 LP OC <GT1030 GDDR5 64bit HDCP DP HDMI LP Retail",
+                "ACTIVE": "Y",
+                "CODE": "0557202",
+                "DATE_ACTIVE_FROM": "06.07.2018"
+            }
+        ],
+        "ssd": [
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/878/3003460/3003460_1.jpg",
+                "ID": "3003460",
+                "label": "Твердотельный накопитель SSD 2.5 800 Gb Intel SSDSC2BA800G301 Read 500Mbs Write 460Mbs MLC",
+                "value": "Твердотельный накопитель SSD 2.5 800 Gb Intel SSDSC2BA800G301 Read 500Mbs Write 460Mbs MLC",
+                "ACTIVE": "Y",
+                "CODE": "0972047",
+                "DATE_ACTIVE_FROM": "04.02.2014"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/878/2892289/2892289_1.jpg",
+                "ID": "2892289",
+                "label": "SSD Твердотельный накопитель 2.5 480 Gb Silicon Power Velox V55 Read 556Mbs Write 500Mbs SATA III SP480GBSS3V55S25",
+                "value": "SSD Твердотельный накопитель 2.5 480 Gb Silicon Power Velox V55 Read 556Mbs Write 500Mbs SATA III SP480GBSS3V55S25",
+                "ACTIVE": "Y",
+                "CODE": "0885772",
+                "DATE_ACTIVE_FROM": "04.02.2014"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/878/2904452/2904452_1.jpg",
+                "ID": "2904452",
+                "label": "SSD Твердотельный накопитель 2.5 480 Gb Silicon Power Slim S55 Read 550Mbs Write 500Mbs SATA III SP480GBSS3S60S25",
+                "value": "SSD Твердотельный накопитель 2.5 480 Gb Silicon Power Slim S55 Read 550Mbs Write 500Mbs SATA III SP480GBSS3S60S25",
+                "ACTIVE": "Y",
+                "CODE": "0883691",
+                "DATE_ACTIVE_FROM": "10.04.2014"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/878/2882675/2882675_1.jpg",
+                "ID": "2882675",
+                "label": "Твердотельный накопитель SSD PCI-E 1.6 Tb Intel SSDPEDMD016T401 933090 Read 2800Mbs Write 1900Mbs MLC",
+                "value": "Твердотельный накопитель SSD PCI-E 1.6 Tb Intel SSDPEDMD016T401 933090 Read 2800Mbs Write 1900Mbs MLC",
+                "ACTIVE": "Y",
+                "CODE": "01070561",
+                "DATE_ACTIVE_FROM": "27.10.2014"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/878/2882676/2882676_1.jpg",
+                "ID": "2882676",
+                "label": "Твердотельный накопитель SSD PCI-E 2 Tb Intel SSDPEDMD020T401 Read 2800Mbs Write 1900Mbs MLC",
+                "value": "Твердотельный накопитель SSD PCI-E 2 Tb Intel SSDPEDMD020T401 Read 2800Mbs Write 1900Mbs MLC",
+                "ACTIVE": "Y",
+                "CODE": "0893358",
+                "DATE_ACTIVE_FROM": "27.10.2014"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/878/2969796/2969796_1.jpg",
+                "ID": "2969796",
+                "label": "Твердотельный накопитель SSD 2.5 240 Gb Silicon Power SP240GBSS3S80S25 Read 550Mbs Write 500Mbs MLC",
+                "value": "Твердотельный накопитель SSD 2.5 240 Gb Silicon Power SP240GBSS3S80S25 Read 550Mbs Write 500Mbs MLC",
+                "ACTIVE": "Y",
+                "CODE": "0913195",
+                "DATE_ACTIVE_FROM": "09.12.2014"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/878/2882677/2882677_1.jpg",
+                "ID": "2882677",
+                "label": "Твердотельный накопитель SSD 2.5 800 Gb Intel 937745 Read 550Mbs Write 460Mbs MLC",
+                "value": "Твердотельный накопитель SSD 2.5 800 Gb Intel 937745 Read 550Mbs Write 460Mbs MLC",
+                "ACTIVE": "Y",
+                "CODE": "0924290",
+                "DATE_ACTIVE_FROM": "24.03.2015"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/878/2882678/2882678_1.jpg",
+                "ID": "2882678",
+                "label": "Твердотельный накопитель SSD 2.5 400 Gb Intel SSDSC2BA400G401 Read 550Mbs Write 470Mbs MLC",
+                "value": "Твердотельный накопитель SSD 2.5 400 Gb Intel SSDSC2BA400G401 Read 550Mbs Write 470Mbs MLC",
+                "ACTIVE": "Y",
+                "CODE": "0911844",
+                "DATE_ACTIVE_FROM": "20.05.2015"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/878/2882679/2882679_1.jpg",
+                "ID": "2882679",
+                "label": "Твердотельный накопитель SSD 2.5 32 Gb Transcend TS32GSSD370S Read 560Mbs Write 460Mbs MLC",
+                "value": "Твердотельный накопитель SSD 2.5 32 Gb Transcend TS32GSSD370S Read 560Mbs Write 460Mbs MLC",
+                "ACTIVE": "Y",
+                "CODE": "0915562",
+                "DATE_ACTIVE_FROM": "31.07.2015"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/878/2882680/2882680_1.jpg",
+                "ID": "2882680",
+                "label": "Твердотельный накопитель SSD 2.5 64 Gb Transcend TS64GSSD370S Read 560Mbs Write 460Mbs MLC",
+                "value": "Твердотельный накопитель SSD 2.5 64 Gb Transcend TS64GSSD370S Read 560Mbs Write 460Mbs MLC",
+                "ACTIVE": "Y",
+                "CODE": "0933979",
+                "DATE_ACTIVE_FROM": "31.07.2015"
+            }
+        ],
+        "hdd": [
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/2881369/2881369_1.jpg",
+                "ID": "2881369",
+                "label": "Жесткий диск 3.5 1 Tb rpm 64Mb cache Toshiba MG03ACA100 SATA III 6 Gbs",
+                "value": "Жесткий диск 3.5 1 Tb rpm 64Mb cache Toshiba MG03ACA100 SATA III 6 Gbs",
+                "ACTIVE": "Y",
+                "CODE": "0903352",
+                "DATE_ACTIVE_FROM": "13.02.2014"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/2903714/2903714_1.jpg",
+                "ID": "2903714",
+                "label": "Жесткий диск 3.5 4 Tb 5900rpm 64Mb cache Seagate ST4000VX000 SATA III 6 Gbs",
+                "value": "Жесткий диск 3.5 4 Tb 5900rpm 64Mb cache Seagate ST4000VX000 SATA III 6 Gbs",
+                "ACTIVE": "Y",
+                "CODE": "0889330",
+                "DATE_ACTIVE_FROM": "09.06.2014"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/3184076/3184076_1.jpg",
+                "ID": "3184076",
+                "label": "Жесткий диск 3.5 6 Tb 5400rpm 64Mb cache Western Digital SATAIII WD60PURX",
+                "value": "Жесткий диск 3.5 6 Tb 5400rpm 64Mb cache Western Digital SATAIII WD60PURX",
+                "ACTIVE": "Y",
+                "CODE": "01259508",
+                "DATE_ACTIVE_FROM": "11.12.2014"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/2881370/2881370_1.jpg",
+                "ID": "2881370",
+                "label": "Жесткий диск 3.5 6 Tb 7200rpm 128Mb cache Toshiba MG04ACA600E SATA III 6 Gbs MG04ACA600E",
+                "value": "Жесткий диск 3.5 6 Tb 7200rpm 128Mb cache Toshiba MG04ACA600E SATA III 6 Gbs MG04ACA600E",
+                "ACTIVE": "Y",
+                "CODE": "0935405",
+                "DATE_ACTIVE_FROM": "12.11.2015"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/2881371/2881371_1.jpg",
+                "ID": "2881371",
+                "label": "Жесткий диск 3.5 6Tb 7200rpm Toshiba SAS MG04SCA60EE",
+                "value": "Жесткий диск 3.5 6Tb 7200rpm Toshiba SAS MG04SCA60EE",
+                "ACTIVE": "Y",
+                "CODE": "0960410",
+                "DATE_ACTIVE_FROM": "19.05.2016"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/2881372/2881372_1.jpg",
+                "ID": "2881372",
+                "label": "Жесткий диск 3.5 1 Tb rpm 64Mb cache Toshiba HDWD110EZSTA SATA III 6 Gbs",
+                "value": "Жесткий диск 3.5 1 Tb rpm 64Mb cache Toshiba HDWD110EZSTA SATA III 6 Gbs",
+                "ACTIVE": "Y",
+                "CODE": "0978875",
+                "DATE_ACTIVE_FROM": "31.05.2016"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/2881373/2881373_1.jpg",
+                "ID": "2881373",
+                "label": "Жесткий диск 3.5 2 Tb 7200rpm 64Mb cache Toshiba P300 SATA III 6 Gbs HDWD120EZSTA",
+                "value": "Жесткий диск 3.5 2 Tb 7200rpm 64Mb cache Toshiba P300 SATA III 6 Gbs HDWD120EZSTA",
+                "ACTIVE": "Y",
+                "CODE": "0939898",
+                "DATE_ACTIVE_FROM": "31.05.2016"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/2881374/2881374_1.jpg",
+                "ID": "2881374",
+                "label": "Жесткий диск 3.5 3Tb 7200rpm 64Mb Toshiba SATAIII HDWD130EZSTA",
+                "value": "Жесткий диск 3.5 3Tb 7200rpm 64Mb Toshiba SATAIII HDWD130EZSTA",
+                "ACTIVE": "Y",
+                "CODE": "0926428",
+                "DATE_ACTIVE_FROM": "31.05.2016"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/2881375/2881375_1.jpg",
+                "ID": "2881375",
+                "label": "Жесткий диск 3.5 1 Tb 7200rpm Dell SATA 400-ACRSt Toshiba DT01ACA100",
+                "value": "Жесткий диск 3.5 1 Tb 7200rpm Dell SATA 400-ACRSt Toshiba DT01ACA100",
+                "ACTIVE": "Y",
+                "CODE": "0920796",
+                "DATE_ACTIVE_FROM": "16.06.2016"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/2881376/2881376_1.jpg",
+                "ID": "2881376",
+                "label": "Жесткий диск 3.5 6 Tb 7200rpm 128Mb cache Toshiba HDWN160EZSTA SATA III 6 Gbs",
+                "value": "Жесткий диск 3.5 6 Tb 7200rpm 128Mb cache Toshiba HDWN160EZSTA SATA III 6 Gbs",
+                "ACTIVE": "Y",
+                "CODE": "0972017",
+                "DATE_ACTIVE_FROM": "13.02.2017"
+            }
+        ],
+        "addons": [
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/2830862/2830862_1.jpg",
+                "ID": "2830862",
+                "label": "Комплект Genius Smart KB-M225 (клавиатура  мышь) Black USB",
+                "value": "Комплект Genius Smart KB-M225 (клавиатура  мышь) Black USB",
+                "ACTIVE": "Y",
+                "CODE": "01059767",
+                "DATE_ACTIVE_FROM": "14.03.2020"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/2830863/2830863_1.jpg",
+                "ID": "2830863",
+                "label": "Клавиатура  мышь Microsoft Ergonomic Keyboard Kili & Mouse LionRock 4 Busines клавчерный мышьчерный USB беспроводная",
+                "value": "Клавиатура  мышь Microsoft Ergonomic Keyboard Kili & Mouse LionRock 4 Busines клавчерный мышьчерный USB беспроводная",
+                "ACTIVE": "Y",
+                "CODE": "01079856",
+                "DATE_ACTIVE_FROM": "08.07.2020"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/2830864/2830864_1.jpg",
+                "ID": "2830864",
+                "label": "Клавиатура  мышь Dell KM7120W клавсеребристый мышьсерый USB беспроводная BluetoothРадио",
+                "value": "Клавиатура  мышь Dell KM7120W клавсеребристый мышьсерый USB беспроводная BluetoothРадио",
+                "ACTIVE": "Y",
+                "CODE": "01083388",
+                "DATE_ACTIVE_FROM": "23.06.2020"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/2830865/2830865_1.jpg",
+                "ID": "2830865",
+                "label": "Клавиатура  мышь Oklick 240M клавбелый мышьбелый USB беспроводная slim Multimedia",
+                "value": "Клавиатура  мышь Oklick 240M клавбелый мышьбелый USB беспроводная slim Multimedia",
+                "ACTIVE": "Y",
+                "CODE": "01049443",
+                "DATE_ACTIVE_FROM": "30.07.2019"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/2830866/2830866_1.jpg",
+                "ID": "2830866",
+                "label": "Клавиатура  мышь Microsoft Bluetooth Desktop клавчерный мышьчерный беспроводная BT slim",
+                "value": "Клавиатура  мышь Microsoft Bluetooth Desktop клавчерный мышьчерный беспроводная BT slim",
+                "ACTIVE": "Y",
+                "CODE": "01078674",
+                "DATE_ACTIVE_FROM": "23.06.2020"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/2830867/2830867_1.jpg",
+                "ID": "2830867",
+                "label": "Клавиатура  мышь Microsoft Ergonomic Keyboard Kili & Mouse LionRock клавчерный мышьчерный USB Multimedia",
+                "value": "Клавиатура  мышь Microsoft Ergonomic Keyboard Kili & Mouse LionRock клавчерный мышьчерный USB Multimedia",
+                "ACTIVE": "Y",
+                "CODE": "01079855",
+                "DATE_ACTIVE_FROM": "08.07.2020"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/2870277/2870277_1.jpg",
+                "ID": "2870277",
+                "label": "Комплект A4Tech 3100N черный USB",
+                "value": "Комплект A4Tech 3100N черный USB",
+                "ACTIVE": "Y",
+                "CODE": "0850830",
+                "DATE_ACTIVE_FROM": "05.05.2012"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/2870278/2870278_1.jpg",
+                "ID": "2870278",
+                "label": "Комплект A4Tech 7100N черный USB",
+                "value": "Комплект A4Tech 7100N черный USB",
+                "ACTIVE": "Y",
+                "CODE": "0886809",
+                "DATE_ACTIVE_FROM": "14.09.2012"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/2870279/2870279_1.jpg",
+                "ID": "2870279",
+                "label": "Комплект HP черный USB 638214-B21",
+                "value": "Комплект HP черный USB 638214-B21",
+                "ACTIVE": "Y",
+                "CODE": "01060181",
+                "DATE_ACTIVE_FROM": "14.01.2015"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/2870280/2870280_1.jpg",
+                "ID": "2870280",
+                "label": "Комплект HP Wireless Business N3R88AA USB черный",
+                "value": "Комплект HP Wireless Business N3R88AA USB черный",
+                "ACTIVE": "Y",
+                "CODE": "0925523",
+                "DATE_ACTIVE_FROM": "13.07.2016"
+            }
+        ],
+        "keybord": [
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/43865/43865_1.jpg",
+                "ID": "43865",
+                "label": "Клавиатура Microsoft Wired 600 Keyboard (ANB-00018) USB Black Retail",
+                "value": "Клавиатура Microsoft Wired 600 Keyboard (ANB-00018) USB Black Retail",
+                "ACTIVE": "Y",
+                "CODE": "0123826",
+                "DATE_ACTIVE_FROM": "30.07.2009"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/48635/48635_1.jpg",
+                "ID": "48635",
+                "label": "Клавиатура Defender Episode 950 USB слим 6 дополнит. кнопок",
+                "value": "Клавиатура Defender Episode 950 USB слим 6 дополнит. кнопок",
+                "ACTIVE": "Y",
+                "CODE": "0128613",
+                "DATE_ACTIVE_FROM": "16.10.2013"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/131900/131900_1.jpg",
+                "ID": "131900",
+                "label": "(920-002522) Клавиатура Logitech Keyboard K120 For Business Black USB",
+                "value": "(920-002522) Клавиатура Logitech Keyboard K120 For Business Black USB",
+                "ACTIVE": "Y",
+                "CODE": "0147422",
+                "DATE_ACTIVE_FROM": "15.09.2010"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/133174/133174_1.jpg",
+                "ID": "133174",
+                "label": "(920-002506) Клавиатура Logitech Keyboard K120 Black USB",
+                "value": "(920-002506) Клавиатура Logitech Keyboard K120 Black USB",
+                "ACTIVE": "Y",
+                "CODE": "0150231",
+                "DATE_ACTIVE_FROM": "18.08.2010"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/134808/134808_1.jpg",
+                "ID": "134808",
+                "label": "(920-002395) Клавиатура Беспроводная Logitech Wireless ILLUMINATED Keyboard K800",
+                "value": "(920-002395) Клавиатура Беспроводная Logitech Wireless ILLUMINATED Keyboard K800",
+                "ACTIVE": "Y",
+                "CODE": "0151831",
+                "DATE_ACTIVE_FROM": "24.11.2010"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/143836/143836_1.jpg",
+                "ID": "143836",
+                "label": "(920-002938) Клавиатура Беспроводная Logitech Wireless Solar Keyboard K750",
+                "value": "(920-002938) Клавиатура Беспроводная Logitech Wireless Solar Keyboard K750",
+                "ACTIVE": "Y",
+                "CODE": "0158885",
+                "DATE_ACTIVE_FROM": "24.11.2010"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/152691/152691_1.jpg",
+                "ID": "152691",
+                "label": "(920-003095) Клавиатура Беспроводная Logitech Wireless Keyboard K360",
+                "value": "(920-003095) Клавиатура Беспроводная Logitech Wireless Keyboard K360",
+                "ACTIVE": "Y",
+                "CODE": "0168710",
+                "DATE_ACTIVE_FROM": "15.07.2011"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/161330/161330_1.jpg",
+                "ID": "161330",
+                "label": "Клавиатура A4Tech KD-126-2 черный USB slim Multimedia LED (with White Light)",
+                "value": "Клавиатура A4Tech KD-126-2 черный USB slim Multimedia LED (with White Light)",
+                "ACTIVE": "Y",
+                "CODE": "0175636",
+                "DATE_ACTIVE_FROM": "25.03.2014"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/164514/164514_1.jpg",
+                "ID": "164514",
+                "label": "(920-003348) Клавиатура Беспроводная Logitech Wireless Keyboard K230",
+                "value": "(920-003348) Клавиатура Беспроводная Logitech Wireless Keyboard K230",
+                "ACTIVE": "Y",
+                "CODE": "0179790",
+                "DATE_ACTIVE_FROM": "15.02.2012"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/168421/168421_1.jpg",
+                "ID": "168421",
+                "label": "Клавиатура Defender Element HB-520 PS2 B(Черный)",
+                "value": "Клавиатура Defender Element HB-520 PS2 B(Черный)",
+                "ACTIVE": "Y",
+                "CODE": "0182995",
+                "DATE_ACTIVE_FROM": "16.10.2013"
+            }
+        ],
+        "mouse": [
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/121578/121578_1.jpg",
+                "ID": "121578",
+                "label": "Мышь A4Tech XL-755BK USB Black 9 кн 1 кл-кн 100-3600 dpi",
+                "value": "Мышь A4Tech XL-755BK USB Black 9 кн 1 кл-кн 100-3600 dpi",
+                "ACTIVE": "Y",
+                "CODE": "0138008",
+                "DATE_ACTIVE_FROM": "13.05.2010"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/165935/165935_1.jpg",
+                "ID": "165935",
+                "label": "Мышь беспроводная Logitech M185 BlackRed USB(Radio) оптическая 1000 dpi 2 кнопки  колесо",
+                "value": "Мышь беспроводная Logitech M185 BlackRed USB(Radio) оптическая 1000 dpi 2 кнопки  колесо",
+                "ACTIVE": "Y",
+                "CODE": "0170264",
+                "DATE_ACTIVE_FROM": "16.01.2012"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/169842/169842_1.jpg",
+                "ID": "169842",
+                "label": "Мышь (910-002736) Logitech Wireless Mini Mouse M187 Black",
+                "value": "Мышь (910-002736) Logitech Wireless Mini Mouse M187 Black",
+                "ACTIVE": "Y",
+                "CODE": "0184323",
+                "DATE_ACTIVE_FROM": "14.03.2012"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/178744/178744_1.jpg",
+                "ID": "178744",
+                "label": "Мышь (910-003118) Logitech Mouse M105 Red",
+                "value": "Мышь (910-003118) Logitech Mouse M105 Red",
+                "ACTIVE": "Y",
+                "CODE": "0192350",
+                "DATE_ACTIVE_FROM": "10.07.2012"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/182396/182396_1.jpg",
+                "ID": "182396",
+                "label": "Мышь Defender Optimum MM-140 BlackSilver USB проводная оптическая 800 dpi 2 кнопки  колесо",
+                "value": "Мышь Defender Optimum MM-140 BlackSilver USB проводная оптическая 800 dpi 2 кнопки  колесо",
+                "ACTIVE": "Y",
+                "CODE": "0193044",
+                "DATE_ACTIVE_FROM": "16.08.2012"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/182397/182397_1.jpg",
+                "ID": "182397",
+                "label": "Мышь Defender Optimum MB-150 PS2 B(Черный) 2кнкл 800dpi",
+                "value": "Мышь Defender Optimum MB-150 PS2 B(Черный) 2кнкл 800dpi",
+                "ACTIVE": "Y",
+                "CODE": "0193046",
+                "DATE_ACTIVE_FROM": "16.08.2012"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/183594/183594_1.jpg",
+                "ID": "183594",
+                "label": "Мышь Microsoft Compact Optical Mouse 500 USB Black Retail (4HH-00002) [for business]",
+                "value": "Мышь Microsoft Compact Optical Mouse 500 USB Black Retail (4HH-00002) [for business]",
+                "ACTIVE": "Y",
+                "CODE": "0197232",
+                "DATE_ACTIVE_FROM": "14.09.2013"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/187360/187360_1.jpg",
+                "ID": "187360",
+                "label": "Мышь Defender Dacota MS-155 Nano B(Черный) 2кнкл 100015002000 dpi",
+                "value": "Мышь Defender Dacota MS-155 Nano B(Черный) 2кнкл 100015002000 dpi",
+                "ACTIVE": "Y",
+                "CODE": "0192976",
+                "DATE_ACTIVE_FROM": "15.10.2013"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/189600/189600_1.jpg",
+                "ID": "189600",
+                "label": "Мышь Defender Optimum MS-125 Nano G(Серый) 2кнкл 100015002000 dpi",
+                "value": "Мышь Defender Optimum MS-125 Nano G(Серый) 2кнкл 100015002000 dpi",
+                "ACTIVE": "Y",
+                "CODE": "0192974",
+                "DATE_ACTIVE_FROM": "20.10.2013"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/192502/192502_1.jpg",
+                "ID": "192502",
+                "label": "Мышь Microsoft Comfort Mouse 4500 Black USB проводная оптическая 1000 dpi 4 кнопки  колесо",
+                "value": "Мышь Microsoft Comfort Mouse 4500 Black USB проводная оптическая 1000 dpi 4 кнопки  колесо",
+                "ACTIVE": "Y",
+                "CODE": "0206624",
+                "DATE_ACTIVE_FROM": "12.12.2012"
+            }
+        ],
+        "pad": [
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/199167/199167_1.jpg",
+                "ID": "199167",
+                "label": "Коврик для мыши Defender тканевый GP-800 Viking текстура резина 40528530",
+                "value": "Коврик для мыши Defender тканевый GP-800 Viking текстура резина 40528530",
+                "ACTIVE": "Y",
+                "CODE": "0209257",
+                "DATE_ACTIVE_FROM": "25.10.2013"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/199168/199168_1.jpg",
+                "ID": "199168",
+                "label": "Коврик для мыши Defender гелевый Easy Work (черная лайкра) нескользящ.основа260х225х5мм",
+                "value": "Коврик для мыши Defender гелевый Easy Work (черная лайкра) нескользящ.основа260х225х5мм",
+                "ACTIVE": "Y",
+                "CODE": "0209259",
+                "DATE_ACTIVE_FROM": "19.10.2013"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/199169/199169_1.jpg",
+                "ID": "199169",
+                "label": "Коврик для мыши Defender гелевый Easy Work (серая лайкра) нескользящ.основа260х225х5мм",
+                "value": "Коврик для мыши Defender гелевый Easy Work (серая лайкра) нескользящ.основа260х225х5мм",
+                "ACTIVE": "Y",
+                "CODE": "0209261",
+                "DATE_ACTIVE_FROM": "15.10.2013"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/199170/199170_1.jpg",
+                "ID": "199170",
+                "label": "Коврик для мыши Defender гелевый Easy Work (синяя лайкра) нескользящ.основа260х225х5мм",
+                "value": "Коврик для мыши Defender гелевый Easy Work (синяя лайкра) нескользящ.основа260х225х5мм",
+                "ACTIVE": "Y",
+                "CODE": "0209263",
+                "DATE_ACTIVE_FROM": "15.10.2013"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/199172/199172_1.jpg",
+                "ID": "199172",
+                "label": "Коврик для мыши Defender пластиковый Sticker (ассорти- 8 видов) 220x180x04 мм",
+                "value": "Коврик для мыши Defender пластиковый Sticker (ассорти- 8 видов) 220x180x04 мм",
+                "ACTIVE": "Y",
+                "CODE": "0209267",
+                "DATE_ACTIVE_FROM": "15.10.2013"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/199173/199173_1.jpg",
+                "ID": "199173",
+                "label": "Коврик для мыши Defender Silver Opti-Laser (пластиковый) 220х180х0.4 5 видов",
+                "value": "Коврик для мыши Defender Silver Opti-Laser (пластиковый) 220х180х0.4 5 видов",
+                "ACTIVE": "Y",
+                "CODE": "0209269",
+                "DATE_ACTIVE_FROM": "15.10.2013"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/199174/199174_1.jpg",
+                "ID": "199174",
+                "label": "Коврик для мыши Defender пластиковый Juicy sticker 220х180х0.4 мм",
+                "value": "Коврик для мыши Defender пластиковый Juicy sticker 220х180х0.4 мм",
+                "ACTIVE": "Y",
+                "CODE": "0209272",
+                "DATE_ACTIVE_FROM": "15.10.2013"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/199175/199175_1.jpg",
+                "ID": "199175",
+                "label": "Коврик для мыши Defender пластиковый Ergo opti-laser Black (черный) 215х165х1.2 мм",
+                "value": "Коврик для мыши Defender пластиковый Ergo opti-laser Black (черный) 215х165х1.2 мм",
+                "ACTIVE": "Y",
+                "CODE": "0209276",
+                "DATE_ACTIVE_FROM": "19.10.2013"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/199176/199176_1.jpg",
+                "ID": "199176",
+                "label": "Коврик для мыши Defender пластиковый Ergo opti-laser Blue (синий) 215х165х1.2 мм",
+                "value": "Коврик для мыши Defender пластиковый Ergo opti-laser Blue (синий) 215х165х1.2 мм",
+                "ACTIVE": "Y",
+                "CODE": "0209278",
+                "DATE_ACTIVE_FROM": "17.10.2013"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/708/199177/199177_1.jpg",
+                "ID": "199177",
+                "label": "Коврик для мыши Defender пластиковый TURBO (ассорти- 4 вида) 210x175x1.2 мм",
+                "value": "Коврик для мыши Defender пластиковый TURBO (ассорти- 4 вида) 210x175x1.2 мм",
+                "ACTIVE": "Y",
+                "CODE": "0209280",
+                "DATE_ACTIVE_FROM": "17.10.2013"
+            }
+        ],
+        "ram": [
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/101/136162/136162_1.jpg",
+                "ID": "136162",
+                "label": "Память DDR3 4Gb (pc-12800) 1600MHz Patriot (PSD34G160081)",
+                "value": "Память DDR3 4Gb (pc-12800) 1600MHz Patriot (PSD34G160081)",
+                "ACTIVE": "Y",
+                "CODE": "0153376",
+                "DATE_ACTIVE_FROM": "14.06.2012"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/101/172846/172846_1.jpg",
+                "ID": "172846",
+                "label": "Память DDR3 8Gb (pc-12800) 1600MHz Patriot (PSD38G16002)",
+                "value": "Память DDR3 8Gb (pc-12800) 1600MHz Patriot (PSD38G16002)",
+                "ACTIVE": "Y",
+                "CODE": "0187822",
+                "DATE_ACTIVE_FROM": "05.11.2013"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/101/178086/178086_1.jpg",
+                "ID": "178086",
+                "label": "Память DDR3 8Gb (pc-12800) 1600MHz Kingston CL11 Retail (KVR16N118)",
+                "value": "Память DDR3 8Gb (pc-12800) 1600MHz Kingston CL11 Retail (KVR16N118)",
+                "ACTIVE": "Y",
+                "CODE": "0191850",
+                "DATE_ACTIVE_FROM": "03.12.2012"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/101/185866/185866_1.jpg",
+                "ID": "185866",
+                "label": "Память DDR3 4Gb (pc-10600) 1333MHz Kingston <Retail (KVR13N9S84)",
+                "value": "Память DDR3 4Gb (pc-10600) 1333MHz Kingston <Retail (KVR13N9S84)",
+                "ACTIVE": "Y",
+                "CODE": "0198788",
+                "DATE_ACTIVE_FROM": "03.09.2012"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/101/190508/190508_1.jpg",
+                "ID": "190508",
+                "label": "Оперативная память Kingston KVR16N11S84 DIMM 4Gb DDR3",
+                "value": "Оперативная память Kingston KVR16N11S84 DIMM 4Gb DDR3",
+                "ACTIVE": "Y",
+                "CODE": "0205421",
+                "DATE_ACTIVE_FROM": "17.10.2012"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/101/239006/239006_1.jpg",
+                "ID": "239006",
+                "label": "Память DDR3 2Gb (pc-10600) 1333MHz Kingston <Retail (KVR13N9S62)",
+                "value": "Память DDR3 2Gb (pc-10600) 1333MHz Kingston <Retail (KVR13N9S62)",
+                "ACTIVE": "Y",
+                "CODE": "0248481",
+                "DATE_ACTIVE_FROM": "05.02.2014"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/101/241428/241428_1.jpg",
+                "ID": "241428",
+                "label": "Память DDR3 2Gb (pc-12800) 1600MHz Kingston <Retail (KVR16N11S62)",
+                "value": "Память DDR3 2Gb (pc-12800) 1600MHz Kingston <Retail (KVR16N11S62)",
+                "ACTIVE": "Y",
+                "CODE": "0249465",
+                "DATE_ACTIVE_FROM": "14.02.2014"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/101/283871/283871_1.jpg",
+                "ID": "283871",
+                "label": "Память DDR3 8Gb (pc-15000) 1866MHz Kingston HyperX Fury Black Series CL10 <Retail (HX318C10FB8)",
+                "value": "Память DDR3 8Gb (pc-15000) 1866MHz Kingston HyperX Fury Black Series CL10 <Retail (HX318C10FB8)",
+                "ACTIVE": "Y",
+                "CODE": "0260398",
+                "DATE_ACTIVE_FROM": "18.06.2014"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/101/283874/283874_1.jpg",
+                "ID": "283874",
+                "label": "Память DDR3 8Gb (pc-12800) 1600MHz Kingston HyperX Fury Black Series CL10 <Retail (HX316C10FB8)",
+                "value": "Память DDR3 8Gb (pc-12800) 1600MHz Kingston HyperX Fury Black Series CL10 <Retail (HX316C10FB8)",
+                "ACTIVE": "Y",
+                "CODE": "0260375",
+                "DATE_ACTIVE_FROM": "05.06.2014"
+            },
+            {
+                "img": "https://img.oldi.ru/upload/resaiz_images_catalog/big/101/300285/300285_1.jpg",
+                "ID": "300285",
+                "label": "Память DDR3 4Gb (pc-12800) 1600MHz Kingston HyperX Fury Black Series CL10 <Retail (HX316C10FB4)",
+                "value": "Память DDR3 4Gb (pc-12800) 1600MHz Kingston HyperX Fury Black Series CL10 <Retail (HX316C10FB4)",
+                "ACTIVE": "Y",
+                "CODE": "0262466",
+                "DATE_ACTIVE_FROM": "30.05.2014"
+            }
+        ]
+    }
+}

@@ -1,23 +1,24 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
-
-function App() {
+import HeadBanner from "./components/headBanner";
+import TabsBonner from "./components/tabsBonner";
+function App({data, accessories}) {
+  
+  var infos = JSON.parse(data);
+  // console.log(infos);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="n-page-container">
+      <HeadBanner 
+      inStock={infos.element.inStock}
+      img={infos.element.imgs}
+      title={infos.element.title}
+      code={infos.element.code}
+      description={infos.element.description}
+      price={infos.element.price}
+      server={infos.server}
+      id={infos.id}
+      />
+      <TabsBonner   id={infos.id}  code={infos.element.code} data={infos.element.components} accessories={accessories}/>
     </div>
   );
 }

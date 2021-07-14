@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Видеокарта ",
+        "subname": "ASUS GeForce® GTX 1650 PHOENIX OC 4G GDDR6",
+        "ico": "gpu"
+    },
+    {
+        "name": "Процессор ",
+        "subname": "Intel Core i511500 2700 MHz BOX",
+        "ico": "cpu"
+    },
+    {
+        "name": "Материнская плата ",
+        "subname": "ASRock B560 PRO4",
+        "ico": "mother"
+    },
+    {
+        "name": "Оперативная память ",
+        "subname": "8 ГБ DDR4 2666MHz Kingston HyperX Fury",
+        "ico": "ram"
+    },
+    {
+        "name": "SSD ",
+        "subname": "480 ГБ M.2 KINGSTON A400",
+        "ico": "ssd"
+    },
+    {
+        "name": "HDD ",
+        "subname": "Без HDD",
+        "ico": "hdd"
+    },
+    {
+        "name": "Блок питания ",
+        "subname": "550W Corsair CV550, 80 PLUS Bronze",
+        "ico": "power"
+    },
+    {
+        "name": "Корпус ",
+        "subname": "Cooler Master MasterBox MB320L ARGB",
+        "ico": "corp"
+    },
+    {
+        "name": "Охлаждение ",
+        "subname": "PCCooler GIX4S",
+        "ico": "fan"
+    },
+    {
+        "name": "Видеокарта ",
+        "subname": "ASUS GeForce® GTX 1650 PHOENIX OC 4G GDDR6",
+        "ico": "gpu"
+    },
+    {
+        "name": "Видеокарта ",
+        "subname": "ASUS GeForce® GTX 1650 PHOENIX OC 4G GDDR6",
+        "ico": "gpu"
+    },
+    {
+        "name": "Видеокарта ",
+        "subname": "ASUS GeForce® GTX 1650 PHOENIX OC 4G GDDR6",
+        "ico": "gpu"
+    }
+]

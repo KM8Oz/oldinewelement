@@ -1,0 +1,285 @@
+[
+    {
+        "name": "Видеокарта *",
+        "subname": "ASUS GeForce® GTX 1650 PHOENIX OC 4G GDDR6",
+        "ico": "gpu",
+        "list": [
+            {
+                "name": "Palit GeForce® GTX 1650 GAMINGPRO OC 4G",
+                "img":"gpu",
+                "price": "3800",
+                "disc": "nVidia GeForce GTX 1650 ; частота процессора: 1410 МГц (1725 МГц, в режиме Boost); частота памяти: 12000МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; OverClock Edition; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "ASUS GeForce® GTX 1650 TUF GAMING 4G GDDR6",
+                "img":"gpu",
+                "price": "2500",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1410 МГц (1620 МГц, в режиме Boost); частота памяти: 6001МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "ASUS GeForce® GTX 1650 TUF GAMING OC 4G GDDR6",
+                "img":"gpu",
+                "price": "2200",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1410 МГц (1785 МГц, в режиме Boost); частота памяти: 6001МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "MSI GeForce® GTX 1650 VENTUS XS OC 4G GDDR6",
+                "img":"gpu",
+                "price": "1200",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1485 МГц (1740 МГц, в режиме Boost); частота памяти: 12000МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            }
+        ]
+    },
+    {
+        "name": "Процессор *",
+        "subname": "Intel Core i511500 2700 MHz BOX",
+        "ico": "cpu",
+        "list": [
+            {
+                "name": "Palit GeForce® GTX 1650 GAMINGPRO OC 4G",
+                "img":"cpu",
+                "price": "3800",
+                "disc": "nVidia GeForce GTX 1650 ; частота процессора: 1410 МГц (1725 МГц, в режиме Boost); частота памяти: 12000МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; OverClock Edition; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "ASUS GeForce® GTX 1650 TUF GAMING 4G GDDR6",
+                "img":"cpu",
+                "price": "2500",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1410 МГц (1620 МГц, в режиме Boost); частота памяти: 6001МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "ASUS GeForce® GTX 1650 TUF GAMING OC 4G GDDR6",
+                "img":"cpu",
+                "price": "2200",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1410 МГц (1785 МГц, в режиме Boost); частота памяти: 6001МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "MSI GeForce® GTX 1650 VENTUS XS OC 4G GDDR6",
+                "img":"cpu",
+                "price": "00",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1485 МГц (1740 МГц, в режиме Boost); частота памяти: 12000МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            }
+        ]
+    },
+    {
+        "name": "Материнская плата *",
+        "subname": "ASRock B560 PRO4",
+        "ico": "mother",
+        "list": [
+            {
+                "name": "Palit GeForce® GTX 1650 GAMINGPRO OC 4G",
+                "img":"mother",
+                "price": "3800",
+                "disc": "nVidia GeForce GTX 1650 ; частота процессора: 1410 МГц (1725 МГц, в режиме Boost); частота памяти: 12000МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; OverClock Edition; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "ASUS GeForce® GTX 1650 TUF GAMING 4G GDDR6",
+                "img":"mother",
+                "price": "2500",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1410 МГц (1620 МГц, в режиме Boost); частота памяти: 6001МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "ASUS GeForce® GTX 1650 TUF GAMING OC 4G GDDR6",
+                "img":"mother",
+                "price": "2200",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1410 МГц (1785 МГц, в режиме Boost); частота памяти: 6001МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "MSI GeForce® GTX 1650 VENTUS XS OC 4G GDDR6",
+                "img":"mother",
+                "price": "00",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1485 МГц (1740 МГц, в режиме Boost); частота памяти: 12000МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            }
+        ]
+    },
+    {
+        "name": "Оперативная память *",
+        "subname": "8 ГБ DDR4 2666MHz Kingston HyperX Fury",
+        "ico": "ram",
+        "list": [
+            {
+                "name": "Palit GeForce® GTX 1650 GAMINGPRO OC 4G",
+                "img": "ram",
+                "price": "3800",
+                "disc": "nVidia GeForce GTX 1650 ; частота процессора: 1410 МГц (1725 МГц, в режиме Boost); частота памяти: 12000МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; OverClock Edition; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "ASUS GeForce® GTX 1650 TUF GAMING 4G GDDR6",
+                "img": "ram",
+                "price": "2500",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1410 МГц (1620 МГц, в режиме Boost); частота памяти: 6001МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "ASUS GeForce® GTX 1650 TUF GAMING OC 4G GDDR6",
+                "img": "ram",
+                "price": "2200",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1410 МГц (1785 МГц, в режиме Boost); частота памяти: 6001МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "MSI GeForce® GTX 1650 VENTUS XS OC 4G GDDR6",
+                "img": "ram",
+                "price": "00",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1485 МГц (1740 МГц, в режиме Boost); частота памяти: 12000МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            }
+        ]
+    },
+    {
+        "name": "SSD *",
+        "subname": "480 ГБ M.2 KINGSTON A400",
+        "ico": "ssd",
+        "list": [
+            {
+                "name": "Palit GeForce® GTX 1650 GAMINGPRO OC 4G",
+                "img": "ssd",
+                "price": "3800",
+                "disc": "nVidia GeForce GTX 1650 ; частота процессора: 1410 МГц (1725 МГц, в режиме Boost); частота памяти: 12000МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; OverClock Edition; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "ASUS GeForce® GTX 1650 TUF GAMING 4G GDDR6",
+                "img": "ssd",
+                "price": "2500",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1410 МГц (1620 МГц, в режиме Boost); частота памяти: 6001МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "ASUS GeForce® GTX 1650 TUF GAMING OC 4G GDDR6",
+                "img": "ssd",
+                "price": "2200",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1410 МГц (1785 МГц, в режиме Boost); частота памяти: 6001МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "MSI GeForce® GTX 1650 VENTUS XS OC 4G GDDR6",
+                "img": "ssd",
+                "price": "00",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1485 МГц (1740 МГц, в режиме Boost); частота памяти: 12000МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            }
+        ]
+    },
+    {
+        "name": "HDD *",
+        "subname": "Без HDD",
+        "ico": "hdd",
+        "list": [
+            {
+                "name": "Palit GeForce® GTX 1650 GAMINGPRO OC 4G",
+                "img": "hdd",
+                "price": "3800",
+                "disc": "nVidia GeForce GTX 1650 ; частота процессора: 1410 МГц (1725 МГц, в режиме Boost); частота памяти: 12000МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; OverClock Edition; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "ASUS GeForce® GTX 1650 TUF GAMING 4G GDDR6",
+                "img": "hdd",
+                "price": "2500",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1410 МГц (1620 МГц, в режиме Boost); частота памяти: 6001МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "ASUS GeForce® GTX 1650 TUF GAMING OC 4G GDDR6",
+                "img": "hdd",
+                "price": "2200",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1410 МГц (1785 МГц, в режиме Boost); частота памяти: 6001МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "MSI GeForce® GTX 1650 VENTUS XS OC 4G GDDR6",
+                "img": "hdd",
+                "price": "00",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1485 МГц (1740 МГц, в режиме Boost); частота памяти: 12000МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            }
+        ]
+    },
+    {
+        "name": "Блок питания *",
+        "subname": "550W Corsair CV550, 80 PLUS Bronze",
+        "ico": "power",
+        "list": [
+            {
+                "name": "Palit GeForce® GTX 1650 GAMINGPRO OC 4G",
+                "img": "power",
+                "price": "3800",
+                "disc": "nVidia GeForce GTX 1650 ; частота процессора: 1410 МГц (1725 МГц, в режиме Boost); частота памяти: 12000МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; OverClock Edition; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "ASUS GeForce® GTX 1650 TUF GAMING 4G GDDR6",
+                "img": "power",
+                "price": "2500",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1410 МГц (1620 МГц, в режиме Boost); частота памяти: 6001МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "ASUS GeForce® GTX 1650 TUF GAMING OC 4G GDDR6",
+                "img": "power",
+                "price": "2200",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1410 МГц (1785 МГц, в режиме Boost); частота памяти: 6001МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "MSI GeForce® GTX 1650 VENTUS XS OC 4G GDDR6",
+                "img": "power",
+                "price": "00",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1485 МГц (1740 МГц, в режиме Boost); частота памяти: 12000МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            }
+        ]
+    },
+    {
+        "name": "Корпус *",
+        "subname": "Cooler Master MasterBox MB320L ARGB",
+        "ico": "corp",
+        "list": [
+            {
+                "name": "Palit GeForce® GTX 1650 GAMINGPRO OC 4G",
+                "img":"corp",
+                "img2":"corp1",
+                "price": "3800",
+                "disc": "nVidia GeForce GTX 1650 ; частота процессора: 1410 МГц (1725 МГц, в режиме Boost); частота памяти: 12000МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; OverClock Edition; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "ASUS GeForce® GTX 1650 TUF GAMING 4G GDDR6",
+                "img":"corp",
+                "img2":"corp1",
+                "price": "2500",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1410 МГц (1620 МГц, в режиме Boost); частота памяти: 6001МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "ASUS GeForce® GTX 1650 TUF GAMING OC 4G GDDR6",
+                "img":"corp",
+                "img2":"corp1",
+                "price": "2200",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1410 МГц (1785 МГц, в режиме Boost); частота памяти: 6001МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "MSI GeForce® GTX 1650 VENTUS XS OC 4G GDDR6",
+                "img":"corp",
+                "img2":"corp1",
+                "price": "00",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1485 МГц (1740 МГц, в режиме Boost); частота памяти: 12000МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            }
+        ]
+    },
+    {
+        "name": "Охлаждение *",
+        "subname": "PCCooler GIX4S",
+        "ico": "fan",
+        "list": [
+            {
+                "name": "Palit GeForce® GTX 1650 GAMINGPRO OC 4G",
+                "img":"fan",
+                "price": "3800",
+                "disc": "nVidia GeForce GTX 1650 ; частота процессора: 1410 МГц (1725 МГц, в режиме Boost); частота памяти: 12000МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; OverClock Edition; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "ASUS GeForce® GTX 1650 TUF GAMING 4G GDDR6",
+                "img":"fan",
+                "price": "2500",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1410 МГц (1620 МГц, в режиме Boost); частота памяти: 6001МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "ASUS GeForce® GTX 1650 TUF GAMING OC 4G GDDR6",
+                "img":"fan",
+                "price": "2200",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1410 МГц (1785 МГц, в режиме Boost); частота памяти: 6001МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            },
+            {
+                "name": "MSI GeForce® GTX 1650 VENTUS XS OC 4G GDDR6",
+                "img":"fan",
+                "price": "00",
+                "disc": "NVIDIA GeForce GTX 1650 ; частота процессора: 1485 МГц (1740 МГц, в режиме Boost); частота памяти: 12000МГц; объём видеопамяти: 4ГБ; тип видеопамяти: GDDR6; DirectX 12/OpenGL 4.6;"
+            }
+        ]
+    }
+]
