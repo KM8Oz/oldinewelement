@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/bundle.min.css",
+    "main.js": "/static/js/bundle.min.js",
+    "main.js.map": "/static/js/bundle.min.js.map",
+    "static/js/1.bundle.min.js": "/static/js/1.bundle.min.js",
+    "static/js/1.bundle.min.js.map": "/static/js/1.bundle.min.js.map",
+    "index.html": "/index.html",
+    "static/css/bundle.min.css.map": "/static/css/bundle.min.css.map",
+    "static/js/bundle.min.js.LICENSE.txt": "/static/js/bundle.min.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/GothamProNarrow-Medium.f8df17da.eot"
+  },
+  "entrypoints": [
+    "static/css/bundle.min.css",
+    "static/js/bundle.min.js"
+  ]
+}
